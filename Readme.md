@@ -1,2 +1,3 @@
-sarthak gupta
-Yash Vardhan Singh
+- Sarthak Gupta
+- Yash Vardhan Singh
+- Shreekanth J S

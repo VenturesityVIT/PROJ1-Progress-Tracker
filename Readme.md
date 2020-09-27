@@ -1,6 +1,7 @@
 - Sarthak Gupta
 - Yash Vardhan Singh
-- Shreekanth J S
+- Shreekanth JS
+
 A Full Stack Website where we can keep track of the progress of all the projects that are being done.
 
 Objectives

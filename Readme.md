@@ -3,7 +3,7 @@
 - Shreekanth J S
 A Full Stack Website where we can keep track of the progress of all the projects that are being done.
 
-Keeping track of progress means 
+Objectives
 1) Keeping track of who is assigned to which project
 2) Everyday updates on the progress and details of what one has done that day
 3) Keeping a checklist of all the project deliverables and which ones are complete and which ones are pending.
